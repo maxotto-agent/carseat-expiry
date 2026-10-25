@@ -1,0 +1,462 @@
+[
+ {
+  "brand": "Chicco",
+  "model": "Fit2",
+  "years": 6,
+  "counts_from": "age",
+  "quote": "DO NOT use this Child Restraint if it is more than 6 years old. Check manufacturer’s label on underside of Child Restraint for the “Do Not Use After” date.",
+  "source": "https://www.chiccousa.com/product-manuals/",
+  "manual_file": "Chicco-Fit2-Instruction-Manual.pdf",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Chicco",
+  "model": "Fit360",
+  "years": 8,
+  "counts_from": "age",
+  "quote": "DO NOT use this Child Restraint if it is more than 8 years old. Check manufacturer’s label on Base of Child Restraint for the “Do Not Use After” date.",
+  "source": "https://www.chiccousa.com/product-manuals/",
+  "manual_file": "Chicco-Fit360-Car-Seat-022025.pdf",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Chicco",
+  "model": "Fit360 SE",
+  "years": 8,
+  "counts_from": "age",
+  "quote": "DO NOT use this Child Restraint if it is more than 8 years old. Check manufacturer’s label on Base of Child Restraint for the “Do Not Use After” date.",
+  "source": "https://www.chiccousa.com/product-manuals/",
+  "manual_file": "Chicco-Fit360-SE-Car-Seat.pdf",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Chicco",
+  "model": "Fit360 Zip",
+  "years": 8,
+  "counts_from": "age",
+  "quote": "DO NOT use this Child Restraint if it is more than 8 years old. Check manufacturer’s label on Base of Child Restraint for the “Do Not Use After” date.",
+  "source": "https://www.chiccousa.com/product-manuals/",
+  "manual_file": "Chicco-Fit360-Zip-Car-Seat-Manual-2.0.pdf",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Chicco",
+  "model": "KeyFit 30",
+  "years": 6,
+  "counts_from": "age",
+  "quote": "DO NOT use this Child Restraint if it is more than 6 years old. Check manufacturer’s label on underside of Child Restraint for the “Do Not Use After” date.",
+  "source": "https://www.chiccousa.com/product-manuals/",
+  "manual_file": "Chicco-KeyFit-30-Car-Seat-Product-Manual-03-2020.pdf",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Chicco",
+  "model": "KeyFit 35",
+  "years": 6,
+  "counts_from": "age",
+  "quote": "DO NOT use this Child Restraint if it is more than 6 years old. Check manufacturer’s label on underside of Child Restraint for the “Do Not Use After” date.",
+  "source": "https://www.chiccousa.com/product-manuals/",
+  "manual_file": "Chicco-KeyFit-35-Car-Seat-Product-Manual-03-2020.pdf",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Chicco",
+  "model": "KeyFit",
+  "years": 6,
+  "counts_from": "age",
+  "quote": "DO NOT use this Child Restraint if it is more than 6 years old. Check manufacturer’s label on underside of Child Restraint for the “Do Not Use After” date.",
+  "source": "https://www.chiccousa.com/product-manuals/",
+  "manual_file": "Chicco-KeyFit-Car-Seat-03-2020.pdf",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Chicco",
+  "model": "KeyFit Max",
+  "years": 6,
+  "counts_from": "age",
+  "quote": "DO NOT use this Child Restraint if it is more than 6 years old. Check manufacturer’s label on underside of Child Restraint for the “Do Not Use After” date.",
+  "source": "https://www.chiccousa.com/product-manuals/",
+  "manual_file": "Chicco-KeyFit-Max-Infant-Car-Seat-Manual.pdf",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Chicco",
+  "model": "MyFit Air ClearTex",
+  "years": 8,
+  "counts_from": "age",
+  "quote": "DO NOT use this Child Restraint if it is more than 8 years old. Check manufacturer’s label on underside of Child Restraint for the “Do Not Use After” date.",
+  "source": "https://www.chiccousa.com/product-manuals/",
+  "manual_file": "Chicco-MyFit-Air-ClearTex-Car-Seat-Manual.pdf",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Chicco",
+  "model": "MyFit Zip Air",
+  "years": 8,
+  "counts_from": "age",
+  "quote": "DO NOT use this Child Restraint if it is more than 8 years old. Check manufacturer’s label on underside of Child Restraint for the “Do Not Use After” date.",
+  "source": "https://www.chiccousa.com/product-manuals/",
+  "manual_file": "Chicco-MyFit-Zip-Air-Product-Manual.pdf",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Chicco",
+  "model": "NextFit Max",
+  "years": 8,
+  "counts_from": "age",
+  "quote": "DO NOT use this Child Restraint if it is more than 8 years old. Check manufacturer’s label on underside of Child Restraint for the “Do Not Use After” date.",
+  "source": "https://www.chiccousa.com/product-manuals/",
+  "manual_file": "Chicco-NextFit-MAX-Manual-07-2020.pdf",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Chicco",
+  "model": "NextFit Max Zip",
+  "years": 8,
+  "counts_from": "age",
+  "quote": "DO NOT use this Child Restraint if it is more than 8 years old. Check manufacturer’s label on underside of Child Restraint for the “Do Not Use After” date.",
+  "source": "https://www.chiccousa.com/product-manuals/",
+  "manual_file": "Chicco-NextFit-MAX-Zip-2020-Manual.pdf",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Chicco",
+  "model": "NextFit Sport",
+  "years": 8,
+  "counts_from": "age",
+  "quote": "DO NOT use this Child Restraint if it is more than 8 years old. Check manufacturer’s label on underside of Child Restraint for the “Do Not Use After” date.",
+  "source": "https://www.chiccousa.com/product-manuals/",
+  "manual_file": "Chicco-NextFit-Sport-Product-Manual.pdf",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Chicco",
+  "model": "NextFit Zip",
+  "years": 8,
+  "counts_from": "age",
+  "quote": "DO NOT use this Child Restraint if it is more than 8 years old. Check manufacturer’s label on underside of Child Restraint for the “Do Not Use After” date.",
+  "source": "https://www.chiccousa.com/product-manuals/",
+  "manual_file": "Chicco-NextFit-Zip-Product-Manual.pdf",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Chicco",
+  "model": "OneFit",
+  "years": 10,
+  "counts_from": "age",
+  "quote": "DO NOT use this Child Restraint if it is more than 10 years old. Check manufacturer’s label on underside of Child Restraint for the “Do Not Use After” date.",
+  "source": "https://www.chiccousa.com/product-manuals/",
+  "manual_file": "Chicco-OneFit-Car-Seat-Product-Manual.pdf",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Chicco",
+  "model": "OneFit LX",
+  "years": 10,
+  "counts_from": "age",
+  "quote": "DO NOT use this Child Restraint if it is more than 10 years old. Check manufacturer’s label on underside of Child Restraint for the “Do Not Use After” date.",
+  "source": "https://www.chiccousa.com/product-manuals/",
+  "manual_file": "Chicco-OneFit-LX-All-in-One-Car-Seat-Manual.pdf",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Chicco",
+  "model": "OneFit Max",
+  "years": 10,
+  "counts_from": "age",
+  "quote": "DO NOT use this Child Restraint if it is more than 10 years old. Check manufacturer’s label on underside of Child Restraint for the “Do Not Use After” date.",
+  "source": "https://www.chiccousa.com/product-manuals/",
+  "manual_file": "Chicco-OneFit-MAX-Car-Seat-Manual.pdf",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Chicco",
+  "model": "Fit4",
+  "years": 10,
+  "counts_from": "age",
+  "quote": "DO NOT use this Child Restraint if it is more than 10 years old. Check manufacturer’s label on underside of Child Restraint for the “Do Not Use After” date.",
+  "source": "https://www.chiccousa.com/product-manuals/",
+  "manual_file": "chicco-fit4-car-seat-product-manual.pdf",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Chicco",
+  "model": "KidFit",
+  "years": null,
+  "counts_from": "label_only",
+  "quote": "DO NOT use this Booster Seat beyond the 'Do Not Use After' date (manual gives no year count)",
+  "source": "https://www.chiccousa.com/product-manuals/",
+  "manual_file": "chicco-kidfit-booster-user-guide.pdf",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Chicco",
+  "model": "KidFit Plus",
+  "years": null,
+  "counts_from": "label_only",
+  "quote": "DO NOT use this Booster Seat beyond the 'Do Not Use After' date (manual gives no year count)",
+  "source": "https://www.chiccousa.com/product-manuals/",
+  "manual_file": "chicco-kidfit-plus-booster-car-seat-manual-2022.pdf",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Chicco",
+  "model": "KidFit Zip Plus",
+  "years": null,
+  "counts_from": "label_only",
+  "quote": "DO NOT use this Booster Seat beyond the 'Do Not Use After' date (manual gives no year count)",
+  "source": "https://www.chiccousa.com/product-manuals/",
+  "manual_file": "chicco-kidfit-zip-booster-car-seat-user-guide-2020.pdf",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Chicco",
+  "model": "MyFit",
+  "years": 8,
+  "counts_from": "age",
+  "quote": "DO NOT use this Child Restraint if it is more than 8 years old. Check manufacturer’s label on underside of Child Restraint for the “Do Not Use After” date.",
+  "source": "https://www.chiccousa.com/product-manuals/",
+  "manual_file": "chicco-myfit-booster-instruction-manual-112024-04.pdf",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Chicco",
+  "model": "MyFit Zip",
+  "years": 8,
+  "counts_from": "age",
+  "quote": "DO NOT use this Child Restraint if it is more than 8 years old. Check manufacturer’s label on underside of Child Restraint for the “Do Not Use After” date.",
+  "source": "https://www.chiccousa.com/product-manuals/",
+  "manual_file": "chicco-myfit-zip-booster-product-manual.pdf",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Chicco",
+  "model": "NextFit Zip Max",
+  "years": 8,
+  "counts_from": "age",
+  "quote": "DO NOT use this Child Restraint if it is more than 8 years old. Check manufacturer’s label on underside of Child Restraint for the “Do Not Use After” date.",
+  "source": "https://www.chiccousa.com/product-manuals/",
+  "manual_file": "chicco-nextFit-zip-max-product-manual.pdf",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Chicco",
+  "model": "NextFit iX Zip Air Plus",
+  "years": 8,
+  "counts_from": "age",
+  "quote": "DO NOT use this Child Restraint if it is more than 8 years old. Check manufacturer’s label on underside of Child Restraint for the “Do Not Use After” date.",
+  "source": "https://www.chiccousa.com/product-manuals/",
+  "manual_file": "chicco-nextfit-ix-zip-air-plus-manual.pdf",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Evenflo",
+  "model": "Symphony",
+  "years": 8,
+  "counts_from": "dom",
+  "quote": "the Symphony car seat line expires 8 years after the date of manufacture, because it is an all-in-one car seat with extended use from infant seat through belt-positioning booster.",
+  "source": "https://www.evenflo.com/pages/faq",
+  "note": "FAQ names the line, not each model. Symphony manual PDF listed on /pages/manuals (us_symphony_EN.pdf) but not parsed.",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Evenflo",
+  "model": "Transitions",
+  "years": 8,
+  "counts_from": "dom",
+  "quote": "The Evenflo Transitions and Evenflo Evolve 3-in-1 combination car seats also expire 8 years after the date of manufacture",
+  "source": "https://www.evenflo.com/pages/faq",
+  "note": "Manual not located in /pages/manuals list.",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Evenflo",
+  "model": "Evolve 3-in-1",
+  "years": 8,
+  "counts_from": "dom",
+  "quote": "The Evenflo Transitions and Evenflo Evolve 3-in-1 combination car seats also expire 8 years after the date of manufacture",
+  "source": "https://www.evenflo.com/pages/faq",
+  "note": "Manual us_evolve_EN.pdf listed but not parsed.",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Evenflo",
+  "model": "Gold Revolve360 Convertible",
+  "years": 6,
+  "counts_from": "dom",
+  "quote": "All Evenflo car seats expire 6 years following their date of manufacture, with a few exceptions",
+  "source": "https://www.evenflo.com/pages/faq",
+  "note": "Manual (us-gold-revolve360-convertible-car-seat_EN.pdf p115, p120) says expiry is on the date of manufacture label and gives no year count. Years come from the FAQ default.",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Evenflo",
+  "model": "All4One Convertible",
+  "years": 6,
+  "counts_from": "dom",
+  "quote": "All Evenflo car seats expire 6 years following their date of manufacture, with a few exceptions",
+  "source": "https://www.evenflo.com/pages/faq",
+  "note": "Manual p81 says 'When this child restraint reaches the expiration date found on the date of manufacture label'. No year count in manual.",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Evenflo",
+  "model": "LiteMax 30",
+  "years": 6,
+  "counts_from": "dom",
+  "quote": "All Evenflo car seats expire 6 years following their date of manufacture, with a few exceptions",
+  "source": "https://www.evenflo.com/pages/faq",
+  "note": "Manual p117 says 'expiration date found on the date of manufacture label'. No year count in manual.",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Evenflo",
+  "model": "LiteMax Sport",
+  "years": 6,
+  "counts_from": "dom",
+  "quote": "All Evenflo car seats expire 6 years following their date of manufacture, with a few exceptions",
+  "source": "https://www.evenflo.com/pages/faq",
+  "note": "Manual p115 says 'expiration date on the date of manufacture label'. No year count in manual.",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Evenflo",
+  "model": "Big Kid High Back Booster",
+  "years": 6,
+  "counts_from": "dom",
+  "quote": "All Evenflo car seats expire 6 years following their date of manufacture, with a few exceptions",
+  "source": "https://www.evenflo.com/pages/faq",
+  "note": "Manual p30 says 'expiration date found on the date of manufacture label'. No year count in manual.",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Evenflo",
+  "model": "BigKid Backless Booster",
+  "years": 6,
+  "counts_from": "dom",
+  "quote": "All Evenflo car seats expire 6 years following their date of manufacture, with a few exceptions",
+  "source": "https://www.evenflo.com/pages/faq",
+  "note": "Manual p12 says 'expiration date found on the date of manufacture label'. No year count in manual.",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Evenflo",
+  "model": "BigKid Sport Backless Booster",
+  "years": 6,
+  "counts_from": "dom",
+  "quote": "All Evenflo car seats expire 6 years following their date of manufacture, with a few exceptions",
+  "source": "https://www.evenflo.com/pages/faq",
+  "note": "Manual p11 says 'expiration date found on the date of manufacture label'. No year count in manual.",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Evenflo",
+  "model": "Chase Booster",
+  "years": 6,
+  "counts_from": "dom",
+  "quote": "All Evenflo car seats expire 6 years following their date of manufacture, with a few exceptions",
+  "source": "https://www.evenflo.com/pages/faq",
+  "note": "Manual p24 says 'expiration date found on the date of manufacture label'. No year count in manual.",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Evenflo",
+  "model": "Chase Plus Booster",
+  "years": 6,
+  "counts_from": "dom",
+  "quote": "All Evenflo car seats expire 6 years following their date of manufacture, with a few exceptions",
+  "source": "https://www.evenflo.com/pages/faq",
+  "note": "Manual p45 says 'expiration date found on the date of manufacture label'. No year count in manual.",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Britax",
+  "model": "Cypress (Alpine)",
+  "years": 6,
+  "counts_from": "dom",
+  "quote": "DO NOT use this infant car seat and base if it is older than six (6) years or has been in a moderate or severe crash.",
+  "source": "https://cdne1britaxus.azureedge.net/bri/uploads/user-guides-videos-and-comparison-charts/User-Guides/CYPRESS-ALPINE-US-P15000200_A-1_UG.pdf",
+  "note": "PDF p10. Counting basis from Britax FAQ: 'generally 6 to 10 years from the Date of Manufacture'.",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Britax",
+  "model": "Willow S Alpine",
+  "years": 6,
+  "counts_from": "dom",
+  "quote": "DO NOT use this infant car seat and base if it is older than six (6) years or has been in a moderate or severe crash.",
+  "source": "https://cdne1britaxus.azureedge.net/bri/uploads/user-guides-videos-and-comparison-charts/User-Guides/P15000100_C-3_USER-GUIDE-WILLOW-S-ALPINE-US-compressed.pdf",
+  "note": "PDF p10. Counting basis from Britax FAQ.",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Britax",
+  "model": "Willow SC Alpine",
+  "years": 6,
+  "counts_from": "dom",
+  "quote": "DO NOT use this infant car seat and base if it is older than six (6) years or has been in a moderate or severe crash.",
+  "source": "https://cdne1britaxus.azureedge.net/bri/uploads/user-guides-videos-and-comparison-charts/User-Guides/P14988200_B-2_UG-WILLOW-SC-ALPINE-US.pdf",
+  "note": "PDF p10. Counting basis from Britax FAQ.",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Britax",
+  "model": "B-Safe Gen2",
+  "years": 6,
+  "counts_from": "dom",
+  "quote": "DO NOT use this infant car seat and base if it is older than six (6) years or has been in a moderate or severe crash.",
+  "source": "https://cdne1britaxus.azureedge.net/bri/uploads/user-guides-videos-and-comparison-charts/User-Guides/P13118600_A_UG_B-SAFE-GEN2_US_05.10.2021.pdf",
+  "note": "PDF p7 (2021 version). Counting basis from Britax FAQ.",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Britax",
+  "model": "B-Safe Gen2 FF-FF",
+  "years": 6,
+  "counts_from": "dom",
+  "quote": "DO NOT use this infant car seat and base if it is older than six (6) years or has been in a moderate or severe crash.",
+  "source": "https://cdne1britaxus.azureedge.net/bri/uploads/user-guides-videos-and-comparison-charts/User-Guides/P13118700_A_UG_B-SAFE-GEN2-FF-FF_US_04.29.2021.pdf",
+  "note": "PDF p7. Filename says FF-FF; wording says infant. Type unverified.",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Britax",
+  "model": "Grow With You ClickTight (CT / CT Plus)",
+  "years": 9,
+  "counts_from": "dom",
+  "quote": "discontinue use of this child seat when it is older than nine (9) years or has been in a moderate or severe crash.",
+  "source": "https://cdne1britaxus.azureedge.net/bri/uploads/user-guides-videos-and-comparison-charts/User-Guides/P14368600_A_UG_GWY_CT_CT_PLUS_US.pdf",
+  "note": "PDF p6. Counting basis from Britax FAQ.",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Britax",
+  "model": "Emblem ClickTight Allegiance",
+  "years": 7,
+  "counts_from": "dom",
+  "quote": "discontinue use of this child seat if it is older than seven years or has been in a moderate or severe crash (see below)",
+  "source": "https://cdne1britaxus.azureedge.net/bri/uploads/user-guides-videos-and-comparison-charts/User-Guides/P14450400_A_UG_EMBLEM_ALLEGIANCE_US.pdf",
+  "note": "PDF p5. Counting basis from Britax FAQ. Type from filename.",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Britax",
+  "model": "Marathon ClickTight",
+  "years": 10,
+  "counts_from": "dom",
+  "quote": "discontinue use of this child seat if it is older than ten years or has been in a moderate or severe crash (see below)",
+  "source": "https://cdne1britaxus.azureedge.net/bri/uploads/user-guides-videos-and-comparison-charts/User-Guides/P14450500_A_UG_MARATHON_CT_US.pdf",
+  "note": "PDF p6. Counting basis from Britax FAQ.",
+  "checked": "2026-10-24"
+ },
+ {
+  "brand": "Britax",
+  "model": "Advocate ClickTight (Advocate Blvd)",
+  "years": 10,
+  "counts_from": "dom",
+  "quote": "discontinue use of this child seat if it is older than ten years or has been in a moderate or severe crash (see below)",
+  "source": "https://cdne1britaxus.azureedge.net/bri/uploads/user-guides-videos-and-comparison-charts/User-Guides/P14450600_A_UG_ADV_BLVD_CT_US.pdf",
+  "note": "PDF p6. Counting basis from Britax FAQ. Model name from filename (ADV_BLVD).",
+  "checked": "2026-10-24"
+ }
+]
